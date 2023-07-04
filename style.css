@@ -1,0 +1,25 @@
+* { 
+    margin: 0;
+    padding: 0;
+ 
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    max-width: 100vw;
+    min-height: 1000vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: tomato;
+    color: white;
+}
+
+h1 {
+ 
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000
+}
+
+gg
+
