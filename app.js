@@ -2,7 +2,7 @@ const keys = {
     capitalLetters: "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
     lowerCaseLetters: "abcdefghijklmnopqrstuvwxyz",
     numbers: "1234567890",
-    symbols: "!@#$%^&*",
+    symbols: "!@#$%^&*-",
 }
 
 const getKey = [
